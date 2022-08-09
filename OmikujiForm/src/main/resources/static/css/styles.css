@@ -1,0 +1,45 @@
+*{
+font-family: tahoma;
+}
+
+
+
+input[type=text], select {
+  width: 80%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 28px;
+  box-shadow: 5px 10px;
+ 
+
+}
+
+
+h3{
+	font-family: tahoma;
+	font: pink;
+
+}
+
+
+div {
+  border-radius: 60px;
+  background-color: pink;
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: 1px 10px;
+  
+
+}
+
+
+button{
+	background-color: pink;
+	border-radius: 20px;
+    box-shadow: 5px 10px;
+}
+container{
+	background-color: blue;
+}
